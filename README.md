@@ -1,4 +1,4 @@
-# 利用MindSpore实现CAN模型
+# 利用MindSpore实现CAN模型(昇腾AI创新大赛2023-昇思赛道-算法创新赛题)
 
 ## 题目介绍
 [**昇腾AI创新大赛2023-昇思赛道-算法创新赛题**](https://www.hiascend.com/zh/developer/contests/details/7e51ee21cd604773b5b91b974cef30be)
